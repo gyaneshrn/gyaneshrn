@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gyanesh Ranjan
 - 👀 I’m interested in Developing Cool stuff
-- 🌱 I’m currently learning NodeJs, python, ML
+- 🌱 I’m currently learning NodeJs,Go-Lang, python, ML
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me ...
 
